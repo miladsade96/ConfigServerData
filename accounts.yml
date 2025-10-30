@@ -1,0 +1,11 @@
+build:
+  version: "3.0.0"
+
+accounts:
+  message: "Welcome to the Accounts Service"
+  contactDetails:
+    name: "Milad"
+    email: "milad@gmail.com"
+  onCallSupport:
+    - 123-456-7890
+    - 987-654-3210

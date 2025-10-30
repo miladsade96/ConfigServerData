@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0"
+
+loans:
+  message: "Welcome to the Loans Service"
+  contactDetails:
+    name: "Milad"
+    email: "milad-loans@gmail.com"
+  onCallSupport:
+    - 123-456-7890
+    - 987-654-3210
