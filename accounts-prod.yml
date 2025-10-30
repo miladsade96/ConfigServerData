@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to the Accounts Service - Production Environment"
   contactDetails:
     name: "Rebeca Smith"
-    email: "RebeccaSmith@gmail.com"
+    email: "{cipher}8f2fc47fae938c3d887fb7d10210ed235617bdb48f7fa16b353e0784ebf218b4c62968bd33ce80db812ba6cc5dfb852b"
   onCallSupport:
     - 123-456-7890
     - 987-654-3210
