@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "Welcome to the Accounts Service - Production Environment"
+  message: "Welcome to the Accounts Service - Production - Environment"
   contactDetails:
     name: "Rebeca Smith"
     email: "{cipher}8f2fc47fae938c3d887fb7d10210ed235617bdb48f7fa16b353e0784ebf218b4c62968bd33ce80db812ba6cc5dfb852b"
