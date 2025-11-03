@@ -2,7 +2,7 @@ build:
   version: "3.0.0"
 
 accounts:
-  message: "Welcome to the Accounts Service - changed"
+  message: "Welcome to the Accounts Service"
   contactDetails:
     name: "Milad"
     email: "milad@gmail.com"
